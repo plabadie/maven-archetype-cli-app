@@ -1,4 +1,4 @@
-package $com.plabadie;
+package ${package};
 
 /**
  * Hello world!
